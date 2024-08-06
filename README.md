@@ -1,30 +1,33 @@
 # Hi there, I'm M Shabarish! 👋
-Welcome to my GitHub profile! I'm a passionate computer science and engineering graduate with a strong interest in full-stack data science. I enjoy exploring and implementing cutting-edge technologies to solve complex problems and make a positive impact.
+Welcome to my GitHub profile! I'm a passionate DevOps Engineer passionate about emerging technologies. I am excited to apply my knowledge and skills to help the organization deliver the best quality software products.
+
+💻 **Technology Stack**
+
+𝐓𝐨𝐨𝐥𝐬
+➤ Scripting- Python, Shell
+➤ Networking- VPC, Subnets, Load Balancer, Route 53
+➤ Cloud Platforms- AWS 
+➤ Infrastructure as Code(IaC)- Terraform, Ansible
+➤ Containerization- Docker
+➤ Container Orchestration- Kubernetes, Amazon ECS, EKS
+➤ Monitoring and Logging- Cloudwatch, Prometheus, Grafana
+➤ CI Tools- Jenkins, GitHub Actions
+➤ CD Tools- ArgoCD
+➤ Code Quality - SonarQube
+➤ Security- IAM, SSH
+➤ Databases- MySQL, MongoDB
+➤ Other Technologies- Machine learning, FastApi, Flask
 
 ## About Me
-- 🔭 I recently completed my graduation in Computer Science and Engineering.
-- 🌱 Currently, I'm honing my skills in Full Stack Data Science at iNeuron.
+- 🔭 I have completed my graduation in Computer Science and Engineering in 2023.
+- 🌱 Currently, working as software engineer at Tenzai systems.
 - 🌟 I'm a fast learner and always eager to explore new technologies and frameworks.
-- 🚀 My main expertise lies in Python, Machine Learning, Data Science, SQL, and C.
+- 🚀 My main expertise lies in Python, Devops, Kubernetes, Docker, Jenkins, Github action, Terraform, Ansible.
 - 💡 I have a strong background in leadership and enjoy taking initiative to drive projects forward.
 
-## Projects
-Here are a few notable projects I've worked on:
 
-### Back Order Prediction 
- - Internship project at iNeuron, where I developed a predictive model to forecast backorders for inventory management. This project involved extensive data analysis, machine learning, and deployment.
-### APS-Sensor Fault Detection 
-- As part of my intrest, I worked on a project focused on detecting sensor faults in an APS truck system. I leveraged Python and machine learning algorithms to identify anomalies in the sensor data and develop a fault detection mechanism.
-
-
-## Skills
-- Programming: Python, C
-- Data Science: Machine Learning, Data Analysis, Data Visualization
-- Databases: SQL
-- Tools and Libraries: NumPy, Pandas, Matplotlib, Seaborn Scikit-learn, TensorFlow, Keras, Flask
-- Version Control: Git, GitHub
 ## Let's Connect!
-- I'm always excited to collaborate on new projects or discuss ideas related to data science and machine learning. Connect with me on the following platforms:
+- I'm always excited to collaborate on new projects or discuss ideas related to Devops and Software. Connect with me on the following platforms:
 
 - LinkedIn: [Meda Shabarish](https://www.linkedin.com/in/shabarish-meda-b3435324b/)
 - Email: medashabari@gmail.com
