@@ -4,18 +4,31 @@ Welcome to my GitHub profile! I'm a passionate DevOps Engineer passionate about 
 💻 **Technology Stack**
 
 𝐓𝐨𝐨𝐥𝐬
+
 ➤ Scripting- Python, Shell
+
 ➤ Networking- VPC, Subnets, Load Balancer, Route 53
+
 ➤ Cloud Platforms- AWS 
+
 ➤ Infrastructure as Code(IaC)- Terraform, Ansible
+
 ➤ Containerization- Docker
+
 ➤ Container Orchestration- Kubernetes, Amazon ECS, EKS
+
 ➤ Monitoring and Logging- Cloudwatch, Prometheus, Grafana
+
 ➤ CI Tools- Jenkins, GitHub Actions
+
 ➤ CD Tools- ArgoCD
+
 ➤ Code Quality - SonarQube
+
 ➤ Security- IAM, SSH
+
 ➤ Databases- MySQL, MongoDB
+
 ➤ Other Technologies- Machine learning, FastApi, Flask
 
 ## About Me
